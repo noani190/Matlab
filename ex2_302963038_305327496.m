@@ -1,7 +1,7 @@
 %% 
 % HW_2 solution 
-% Eden Golfarb 302963038
-% Noa Nissani 305327496
+% Eden Golfarb
+% Noa Nissani
  
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
